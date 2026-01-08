@@ -22,9 +22,7 @@ This project builds on the **Ren’Py Chess Engine**, a chess graphical interfac
 
 ## 📦 How to Run
 
-1. Clone this repository  
-2. Open it with Ren’Py Launcher  
-3. Launch the game from the Ren’Py interface
+1. Download the build version here: [Download](https://drive.google.com/drive/folders/1UCY56_NtAprxppDfIya0z7NXOzLSwo0W?usp=drive_link)
 
 ## 📚 Credits
 
