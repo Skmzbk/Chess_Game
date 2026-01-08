@@ -1,2 +1,36 @@
-# Chess_Game
-A chess game built in Ren’Py inspired by renpy-chess (a Ren’Py chess GUI using python-chess and Stockfish), extended with original features and tailored gameplay.
+# My Ren’Py Chess Project
+
+A custom Ren’Py chess game inspired by the *renpy-chess* open-source project, which provides a chess GUI built with Ren’Py, python-chess, and the Stockfish AI. This version includes original enhancements and integrations tailored to this project’s goals. 
+
+## 🚀 About
+
+This project builds on the **Ren’Py Chess Engine**, a chess graphical interface made using the Ren’Py engine, python-chess library, and the Stockfish chess AI to handle gameplay and computer opponents.
+
+<p align="center">
+  <img src="assets/IMG1.png" alt="Game Screenshot" width="800">
+  <img src="assets/IMG2.png" alt="Game Screenshot" width="800">
+</p>
+
+## 🎯 Features
+
+- Player vs Computer
+- Chess AI powered by Stockfish
+- Clean board UI and interactive move highlighting
+- Portable within Ren’Py visual novel projects
+- Inmersive story with branching paths
+- -Humor/Terror routes
+
+## 📦 How to Run
+
+1. Clone this repository  
+2. Open it with Ren’Py Launcher  
+3. Launch the game from the Ren’Py interface
+
+## 📚 Credits
+
+This project uses and builds upon the **renpy-chess** engine by [r3dhummingbird (RuolinZheng08)](https://github.com/RuolinZheng08/renpy-chess), which is licensed under MIT. :contentReference[oaicite:3]{index=3}
+
+## 📝 License
+
+This project is licensed under MIT License — see the [LICENSE](LICENSE) file for details.
+
